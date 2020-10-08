@@ -1,0 +1,471 @@
+DGN,PRE4,PRE5,PRE6,PRE7,PRE8,PRE9,PRE10,PRE11,PRE14,PRE17,PRE19,PRE25,PRE30,PRE32,AGE,Risk1Yr
+DGN2,De 2.67 a 2.88,Más de 2.04,PRZ1,F,F,F,T,T,OC14,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,2.04 o menos,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,De 2.67 a 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,F,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ2,F,T,F,T,T,OC11,F,F,F,T,F,Más de 70,T
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC11,F,F,F,F,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,T,F,F,T,F,62 o menos,T
+DGN2,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,T,T,F,De 66 a 70,T
+DGN3,Más de 2.88,Más de 2.04,PRZ2,F,F,F,T,T,OC11,F,F,F,T,F,De 66 a 70,F
+DGN3,2.66 o menos,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,Más de 2.04,PRZ0,F,T,F,T,F,OC12,F,F,F,F,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,F,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,T,OC11,F,F,F,T,F,De 66 a 70,F
+DGN2,Más de 2.88,Más de 2.04,PRZ2,F,F,F,T,T,OC14,F,F,F,T,F,Más de 70,T
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,Más de 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN2,2.66 o menos,2.04 o menos,PRZ0,F,T,F,F,F,OC12,F,F,F,T,F,62 o menos,F
+DGN2,Más de 2.88,2.04 o menos,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,De 66 a 70,F
+DGN3,De 2.67 a 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,Más de 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,62 o menos,F
+DGN4,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,62 o menos,F
+DGN8,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,F,F,62 o menos,T
+DGN5,Más de 2.88,Más de 2.04,PRZ0,T,T,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,T,OC11,F,F,F,T,F,De 66 a 70,T
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,T,OC11,F,F,F,T,F,62 o menos,F
+DGN6,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,T,T,F,F,F,OC14,F,F,F,T,F,62 o menos,T
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,F,F,62 o menos,F
+DGN5,2.66 o menos,2.04 o menos,PRZ1,T,F,F,F,F,OC12,T,F,F,F,F,Más de 70,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC12,T,F,F,F,F,De 66 a 70,F
+DGN2,De 2.67 a 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,F,F,Más de 70,F
+DGN3,2.66 o menos,2.04 o menos,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,Más de 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,T,T,F,F,OC12,T,F,F,F,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,62 o menos,F
+DGN5,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,62 o menos,T
+DGN2,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,De 63 a 65,T
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,De 66 a 70,F
+DGN5,De 2.67 a 2.88,Más de 2.04,PRZ0,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,T
+DGN3,Más de 2.88,Más de 2.04,PRZ1,T,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,De 66 a 70,F
+DGN3,2.66 o menos,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,Más de 70,T
+DGN3,Más de 2.88,Más de 2.04,PRZ2,F,F,F,T,T,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,F,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC12,F,F,F,F,F,Más de 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,De 66 a 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ2,T,T,T,T,F,OC12,F,F,F,T,F,De 66 a 70,F
+DGN4,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,Más de 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,De 63 a 65,F
+DGN4,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,De 63 a 65,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,T,T,F,OC11,F,F,F,F,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,T,F,F,T,T,OC11,T,F,F,T,F,De 63 a 65,T
+DGN4,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC13,F,F,F,T,F,62 o menos,T
+DGN3,Más de 2.88,2.04 o menos,PRZ2,F,F,F,T,T,OC12,F,F,F,T,F,Más de 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,T,F,F,F,F,62 o menos,F
+DGN2,Más de 2.88,Más de 2.04,PRZ1,F,T,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,De 2.67 a 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,F,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ0,F,F,F,F,F,OC11,F,F,F,F,F,62 o menos,F
+DGN4,2.66 o menos,2.04 o menos,PRZ1,F,T,F,T,T,OC11,F,F,F,T,F,62 o menos,T
+DGN3,De 2.67 a 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,2.04 o menos,PRZ1,F,T,F,T,F,OC12,F,F,F,T,F,De 66 a 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,T,F,F,F,OC11,F,F,F,F,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,T,F,F,T,F,Más de 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,De 63 a 65,F
+DGN4,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,F,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC14,F,F,F,T,F,62 o menos,T
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,T,OC11,F,F,F,T,F,De 66 a 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,T
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,F,F,Más de 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC14,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,2.04 o menos,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,De 63 a 65,F
+DGN3,De 2.67 a 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,T,F,F,F,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,T,T,F,OC12,F,F,F,F,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,T,F,F,OC12,F,F,T,T,F,De 66 a 70,F
+DGN5,De 2.67 a 2.88,2.04 o menos,PRZ2,F,T,F,T,T,OC11,F,F,F,T,F,Más de 70,F
+DGN3,De 2.67 a 2.88,Más de 2.04,PRZ1,T,T,T,T,F,OC12,F,F,F,T,F,Más de 70,F
+DGN4,Más de 2.88,Más de 2.04,PRZ1,F,T,F,T,F,OC12,F,F,F,T,F,Más de 70,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,Más de 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,T
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ2,F,F,F,T,T,OC12,F,F,F,T,F,Más de 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,62 o menos,F
+DGN4,De 2.67 a 2.88,2.04 o menos,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,De 66 a 70,T
+DGN6,Más de 2.88,Más de 2.04,PRZ2,F,F,F,T,F,OC11,F,F,F,T,F,Más de 70,F
+DGN3,2.66 o menos,Más de 2.04,PRZ1,F,F,T,T,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,T,T,T,F,OC12,F,F,F,T,F,62 o menos,T
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,Más de 70,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,T,OC12,T,F,F,T,F,Más de 70,F
+DGN4,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,Más de 70,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC11,F,F,F,F,T,62 o menos,F
+DGN3,De 2.67 a 2.88,2.04 o menos,PRZ1,F,F,F,T,F,OC11,F,F,F,F,F,62 o menos,F
+DGN5,Más de 2.88,Más de 2.04,PRZ1,F,F,F,F,T,OC11,F,F,F,F,F,62 o menos,F
+DGN3,2.66 o menos,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,F,F,De 63 a 65,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,T,T,F,OC12,F,F,F,T,F,Más de 70,F
+DGN2,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,T,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN4,De 2.67 a 2.88,2.04 o menos,PRZ1,F,T,F,T,F,OC11,T,F,F,T,F,62 o menos,T
+DGN4,De 2.67 a 2.88,Más de 2.04,PRZ1,F,F,F,T,T,OC12,F,F,F,T,F,Más de 70,F
+DGN3,De 2.67 a 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,T,F,F,T,F,62 o menos,F
+DGN4,Más de 2.88,Más de 2.04,PRZ1,F,F,F,F,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,T,OC12,F,F,F,T,F,Más de 70,F
+DGN2,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,F,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,Más de 70,F
+DGN2,De 2.67 a 2.88,Más de 2.04,PRZ1,F,F,T,T,F,OC13,F,F,F,T,F,Más de 70,F
+DGN4,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,De 66 a 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,T,OC12,F,F,F,T,F,Más de 70,F
+DGN3,De 2.67 a 2.88,2.04 o menos,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,Más de 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,T,F,T,T,OC11,T,F,F,T,F,Más de 70,T
+DGN4,Más de 2.88,2.04 o menos,PRZ2,F,F,T,T,F,OC12,F,F,F,T,F,Más de 70,T
+DGN2,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,De 63 a 65,F
+DGN2,2.66 o menos,2.04 o menos,PRZ1,F,F,F,F,F,OC12,F,F,F,T,F,Más de 70,F
+DGN2,2.66 o menos,Más de 2.04,PRZ0,F,F,T,F,F,OC13,F,F,F,T,F,De 63 a 65,T
+DGN3,2.66 o menos,2.04 o menos,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,De 63 a 65,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,De 63 a 65,F
+DGN2,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC13,F,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC14,F,F,F,T,F,62 o menos,T
+DGN3,2.66 o menos,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,T,F,F,F,OC12,F,F,F,F,F,62 o menos,F
+DGN2,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,De 63 a 65,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,T,F,T,F,OC12,F,F,F,T,F,Más de 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,F,F,OC11,F,F,F,F,F,62 o menos,F
+DGN4,2.66 o menos,2.04 o menos,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,De 66 a 70,T
+DGN2,Más de 2.88,Más de 2.04,PRZ2,F,F,F,T,T,OC11,F,F,F,T,F,De 66 a 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,F,F,De 66 a 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,De 66 a 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,Más de 70,F
+DGN3,De 2.67 a 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,Más de 70,F
+DGN3,2.66 o menos,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,F,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,T,F,T,F,OC11,F,F,F,T,F,De 66 a 70,T
+DGN3,De 2.67 a 2.88,2.04 o menos,PRZ1,T,F,F,F,F,OC12,F,F,F,F,F,Más de 70,T
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,T,OC12,F,F,F,T,F,Más de 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,De 66 a 70,F
+DGN3,2.66 o menos,Más de 2.04,PRZ1,F,F,F,F,T,OC12,T,F,F,F,F,De 66 a 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,T,T,F,OC13,F,F,F,T,F,De 66 a 70,F
+DGN3,De 2.67 a 2.88,2.04 o menos,PRZ1,F,F,F,T,T,OC12,F,T,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,T,F,T,T,OC12,F,F,T,T,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,2.04 o menos,PRZ0,F,F,F,F,F,OC12,F,F,F,F,F,Más de 70,F
+DGN3,De 2.67 a 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,T,T,F,T,F,OC12,F,F,F,T,F,De 66 a 70,F
+DGN2,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC12,F,F,F,F,F,Más de 70,F
+DGN2,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC14,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,T,T,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN2,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,T,OC11,F,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,T,OC11,F,F,F,T,F,Más de 70,F
+DGN3,2.66 o menos,Más de 2.04,PRZ0,F,F,F,F,F,OC11,T,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,T,T,T,F,OC13,F,F,F,F,F,62 o menos,T
+DGN3,Más de 2.88,2.04 o menos,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,De 66 a 70,F
+DGN2,De 2.67 a 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,T,F,F,T,F,62 o menos,F
+DGN2,Más de 2.88,Más de 2.04,PRZ1,F,T,T,T,F,OC12,F,F,T,T,F,62 o menos,F
+DGN3,2.66 o menos,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,62 o menos,T
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,T,OC11,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,T,T,F,OC12,F,F,F,T,F,Más de 70,T
+DGN3,Más de 2.88,Más de 2.04,PRZ2,F,F,F,T,F,OC14,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,T,F,T,T,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ2,F,F,F,T,T,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,T,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,De 63 a 65,F
+DGN3,De 2.67 a 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,F,F,62 o menos,F
+DGN5,Más de 2.88,Más de 2.04,PRZ0,F,F,T,F,F,OC12,F,F,F,F,F,Más de 70,T
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,De 63 a 65,F
+DGN4,Más de 2.88,2.04 o menos,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,Más de 70,F
+DGN4,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ0,F,F,F,F,F,OC12,F,F,F,T,T,62 o menos,F
+DGN3,De 2.67 a 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,62 o menos,T
+DGN2,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,F,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,De 2.67 a 2.88,Más de 2.04,PRZ1,F,T,F,T,F,OC12,F,F,F,T,F,62 o menos,T
+DGN3,De 2.67 a 2.88,Más de 2.04,PRZ1,T,T,F,F,F,OC12,F,F,F,T,F,De 66 a 70,T
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,F,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,F,F,OC11,F,F,F,T,F,Más de 70,F
+DGN4,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,T,OC11,F,F,F,T,F,Más de 70,F
+DGN3,2.66 o menos,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,De 2.67 a 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,62 o menos,F
+DGN2,Más de 2.88,Más de 2.04,PRZ1,T,T,F,F,F,OC13,F,F,F,T,F,62 o menos,F
+DGN2,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,F,F,Más de 70,F
+DGN3,2.66 o menos,2.04 o menos,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,De 63 a 65,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,De 66 a 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,De 66 a 70,F
+DGN2,De 2.67 a 2.88,2.04 o menos,PRZ1,F,T,F,T,T,OC12,F,F,F,T,F,62 o menos,T
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,T
+DGN3,2.66 o menos,Más de 2.04,PRZ1,T,T,T,F,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ0,F,F,F,F,F,OC12,T,F,F,T,F,De 63 a 65,T
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,62 o menos,F
+DGN2,2.66 o menos,Más de 2.04,PRZ1,F,T,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN2,Más de 2.88,2.04 o menos,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,Más de 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,Más de 70,F
+DGN3,De 2.67 a 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,De 66 a 70,F
+DGN5,De 2.67 a 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC13,F,F,F,T,F,62 o menos,T
+DGN4,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,De 66 a 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,T,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,T,T,F,De 63 a 65,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN4,De 2.67 a 2.88,Más de 2.04,PRZ1,T,F,F,F,F,OC12,T,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,T,OC12,F,F,F,T,F,De 63 a 65,F
+DGN3,2.66 o menos,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,De 63 a 65,T
+DGN3,2.66 o menos,2.04 o menos,PRZ0,F,F,F,F,F,OC11,F,F,F,F,F,De 63 a 65,F
+DGN3,2.66 o menos,Más de 2.04,PRZ1,F,F,F,T,F,OC12,T,F,F,T,F,De 63 a 65,T
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,T,T,F,OC11,F,F,F,T,F,62 o menos,F
+DGN5,De 2.67 a 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,De 66 a 70,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,T,OC11,F,F,F,T,F,De 66 a 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,2.04 o menos,PRZ1,F,F,F,T,T,OC12,F,F,F,T,F,Más de 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,T,F,OC11,F,F,F,T,F,De 66 a 70,F
+DGN5,Más de 2.88,Más de 2.04,PRZ1,F,F,F,F,T,OC11,F,F,F,T,F,62 o menos,T
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,T
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,Más de 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,De 63 a 65,F
+DGN2,Más de 2.88,Más de 2.04,PRZ0,F,T,F,T,F,OC14,F,F,F,T,F,Más de 70,T
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,F,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,T,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN4,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,De 66 a 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN4,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,Más de 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,De 66 a 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ2,F,F,F,T,T,OC11,F,F,F,T,F,Más de 70,T
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,De 63 a 65,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,T,F,F,F,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,T,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,De 2.67 a 2.88,2.04 o menos,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,T,F,T,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,De 2.67 a 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC14,F,F,F,F,F,De 66 a 70,T
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,Más de 70,F
+DGN3,Más de 2.88,2.04 o menos,PRZ0,F,T,F,T,F,OC11,F,F,F,T,F,62 o menos,F
+DGN4,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,F,F,De 66 a 70,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,De 63 a 65,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,Más de 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ2,F,F,F,T,T,OC13,F,F,F,T,F,De 63 a 65,F
+DGN3,2.66 o menos,2.04 o menos,PRZ2,F,F,T,T,T,OC12,F,F,F,T,F,Más de 70,T
+DGN3,Más de 2.88,Más de 2.04,PRZ1,T,F,F,T,F,OC11,F,F,F,T,F,Más de 70,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,T,OC12,F,F,F,T,F,Más de 70,T
+DGN5,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,Más de 70,F
+DGN3,2.66 o menos,2.04 o menos,PRZ0,F,T,F,F,F,OC12,F,F,F,F,F,Más de 70,F
+DGN4,Más de 2.88,Más de 2.04,PRZ2,F,F,F,T,T,OC11,T,F,F,T,F,Más de 70,F
+DGN2,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,T
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,F,T,OC12,F,F,F,T,F,De 63 a 65,F
+DGN3,Más de 2.88,2.04 o menos,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,De 66 a 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,T,F,F,T,F,De 66 a 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,F,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,De 63 a 65,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,F,F,De 63 a 65,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,T,F,F,T,F,OC12,F,F,F,F,F,De 66 a 70,F
+DGN2,2.66 o menos,2.04 o menos,PRZ1,F,T,F,T,F,OC12,F,F,F,T,F,De 63 a 65,F
+DGN3,2.66 o menos,2.04 o menos,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,Más de 70,F
+DGN4,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,De 63 a 65,F
+DGN3,Más de 2.88,2.04 o menos,PRZ1,F,F,F,T,T,OC14,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,Más de 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,T,OC12,F,F,F,T,F,De 63 a 65,F
+DGN3,De 2.67 a 2.88,Más de 2.04,PRZ1,F,F,F,T,T,OC11,T,F,F,T,F,Más de 70,F
+DGN1,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,T,T,F,Más de 70,F
+DGN2,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC11,T,F,F,T,F,De 63 a 65,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,T,F,T,F,OC12,F,F,F,T,F,De 66 a 70,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,T
+DGN3,Más de 2.88,Más de 2.04,PRZ1,T,F,T,T,F,OC12,F,F,F,T,F,62 o menos,T
+DGN3,Más de 2.88,Más de 2.04,PRZ2,F,T,F,T,T,OC11,F,F,F,T,F,Más de 70,F
+DGN3,Más de 2.88,2.04 o menos,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,T,F,T,T,OC12,F,F,F,T,F,De 63 a 65,F
+DGN3,Más de 2.88,2.04 o menos,PRZ0,F,F,F,F,F,OC12,F,F,F,F,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ2,T,F,F,T,T,OC13,F,F,F,F,F,62 o menos,T
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,T,F,T,T,OC12,F,F,F,T,F,De 66 a 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,De 2.67 a 2.88,2.04 o menos,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,De 66 a 70,T
+DGN5,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,T,OC12,F,F,F,T,F,De 66 a 70,F
+DGN3,De 2.67 a 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,F,T,OC11,F,F,F,T,F,Más de 70,F
+DGN4,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,F,F,De 63 a 65,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,T,F,T,T,OC12,F,F,F,F,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,T,F,F,T,F,OC12,F,F,F,T,F,62 o menos,T
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,De 66 a 70,F
+DGN4,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,Más de 70,F
+DGN2,Más de 2.88,Más de 2.04,PRZ1,F,T,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,F,F,62 o menos,F
+DGN3,2.66 o menos,Más de 2.04,PRZ1,F,F,T,T,F,OC12,F,F,F,T,F,Más de 70,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,De 63 a 65,F
+DGN3,2.66 o menos,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC14,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,Más de 70,T
+DGN3,De 2.67 a 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,De 63 a 65,F
+DGN2,2.66 o menos,2.04 o menos,PRZ2,F,T,F,T,T,OC12,F,F,F,T,F,De 63 a 65,F
+DGN4,Más de 2.88,Más de 2.04,PRZ1,F,F,F,F,F,OC11,F,F,F,T,F,62 o menos,F
+DGN4,Más de 2.88,Más de 2.04,PRZ1,F,F,T,F,F,OC11,F,F,F,F,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,T,OC12,F,F,F,T,F,Más de 70,F
+DGN3,2.66 o menos,2.04 o menos,PRZ2,F,T,F,T,T,OC11,F,F,F,T,F,De 66 a 70,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN4,2.66 o menos,2.04 o menos,PRZ0,F,F,F,F,F,OC12,F,F,F,F,F,Más de 70,F
+DGN2,Más de 2.88,Más de 2.04,PRZ1,F,T,T,T,F,OC12,F,F,F,F,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,De 63 a 65,F
+DGN3,2.66 o menos,2.04 o menos,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,62 o menos,F
+DGN4,2.66 o menos,2.04 o menos,PRZ0,F,F,F,F,F,OC11,F,F,F,F,F,Más de 70,F
+DGN2,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,De 66 a 70,T
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,De 63 a 65,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,T,F,T,T,OC11,F,F,F,T,F,De 66 a 70,F
+DGN4,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,De 66 a 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,De 63 a 65,F
+DGN3,Más de 2.88,2.04 o menos,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,De 66 a 70,T
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,T,F,F,F,OC12,F,F,F,T,F,Más de 70,F
+DGN4,2.66 o menos,2.04 o menos,PRZ1,F,T,F,T,F,OC11,F,F,F,T,F,Más de 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,T,OC11,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,De 63 a 65,F
+DGN2,Más de 2.88,Más de 2.04,PRZ2,F,F,F,T,T,OC14,F,F,F,T,F,De 66 a 70,F
+DGN2,Más de 2.88,Más de 2.04,PRZ1,F,F,F,F,T,OC11,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,T,F,F,T,F,OC13,F,F,F,T,F,62 o menos,F
+DGN2,Más de 2.88,Más de 2.04,PRZ1,F,F,F,F,T,OC11,F,F,F,T,F,62 o menos,T
+DGN4,2.66 o menos,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,F,F,De 66 a 70,F
+DGN3,2.66 o menos,Más de 2.04,PRZ1,F,T,F,T,F,OC12,F,F,F,T,F,Más de 70,T
+DGN3,Más de 2.88,2.04 o menos,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,De 66 a 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,T,T,F,F,OC12,F,F,F,F,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,T,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,De 2.67 a 2.88,Más de 2.04,PRZ1,F,F,T,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,De 66 a 70,T
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,De 63 a 65,F
+DGN4,De 2.67 a 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,F,F,De 63 a 65,F
+DGN3,2.66 o menos,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,De 2.67 a 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,2.04 o menos,PRZ1,F,F,F,T,T,OC12,T,F,F,T,F,62 o menos,T
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,T,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ2,F,F,F,T,T,OC11,F,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,De 63 a 65,F
+DGN3,2.66 o menos,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,62 o menos,F
+DGN5,2.66 o menos,2.04 o menos,PRZ1,F,T,F,T,F,OC12,T,F,T,T,F,Más de 70,T
+DGN6,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,Más de 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,De 2.67 a 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ0,F,F,F,F,F,OC12,F,F,F,F,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ0,F,T,F,T,F,OC14,T,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,De 66 a 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,Más de 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,De 63 a 65,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,F,T,OC12,F,F,F,T,F,De 63 a 65,F
+DGN4,De 2.67 a 2.88,2.04 o menos,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,Más de 70,F
+DGN3,Más de 2.88,2.04 o menos,PRZ0,F,T,F,F,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,62 o menos,F
+DGN4,Más de 2.88,Más de 2.04,PRZ1,T,T,F,T,F,OC12,F,F,F,F,F,De 66 a 70,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC11,F,F,F,F,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC12,F,F,F,F,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC12,T,F,F,T,F,Más de 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,T,T,T,OC11,F,F,F,T,F,62 o menos,T
+DGN4,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC13,F,F,F,T,F,De 66 a 70,F
+DGN2,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC14,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,Más de 70,F
+DGN2,2.66 o menos,2.04 o menos,PRZ1,F,T,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN4,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC13,F,F,F,T,F,De 66 a 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN4,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,T,OC11,F,F,F,T,F,62 o menos,F
+DGN4,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,T,F,F,T,F,De 63 a 65,F
+DGN3,De 2.67 a 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,F,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN2,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,Más de 70,F
+DGN3,De 2.67 a 2.88,2.04 o menos,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,De 63 a 65,F
+DGN3,2.66 o menos,2.04 o menos,PRZ0,F,F,F,F,F,OC11,F,F,F,F,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,F,F,De 66 a 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,T,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN2,Más de 2.88,Más de 2.04,PRZ0,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,T
+DGN6,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,F,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,62 o menos,F
+DGN2,De 2.67 a 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,De 66 a 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,T,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,62 o menos,F
+DGN2,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,T
+DGN3,Más de 2.88,Más de 2.04,PRZ1,T,F,F,T,F,OC13,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,F,F,62 o menos,F
+DGN2,2.66 o menos,Más de 2.04,PRZ1,F,T,F,F,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,T,F,T,F,OC11,F,F,F,T,F,De 66 a 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,F,F,De 63 a 65,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,T,OC11,T,F,F,T,F,Más de 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,F,F,OC12,F,F,F,T,F,62 o menos,F
+DGN2,2.66 o menos,2.04 o menos,PRZ0,T,T,F,F,F,OC12,F,F,F,F,F,De 66 a 70,F
+DGN4,2.66 o menos,Más de 2.04,PRZ2,F,F,F,T,T,OC12,F,F,F,T,F,Más de 70,T
+DGN5,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,62 o menos,T
+DGN2,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC14,T,F,F,F,F,De 63 a 65,T
+DGN3,De 2.67 a 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,De 66 a 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,T,F,T,F,OC12,F,F,F,F,F,62 o menos,F
+DGN4,De 2.67 a 2.88,Más de 2.04,PRZ1,T,F,F,F,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,Más de 2.04,PRZ1,F,F,F,T,F,OC13,F,F,F,T,F,62 o menos,T
+DGN3,Más de 2.88,Más de 2.04,PRZ1,T,T,F,T,F,OC11,F,F,F,F,F,Más de 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,T,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC14,T,F,F,T,F,Más de 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,De 63 a 65,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ0,F,F,F,F,F,OC11,T,F,F,F,F,De 66 a 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,T,T,F,T,F,OC11,F,F,F,T,F,De 66 a 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,2.04 o menos,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,T,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN5,Más de 2.88,Más de 2.04,PRZ0,T,T,F,T,F,OC12,F,F,F,F,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,T,OC11,F,F,T,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,T,OC12,F,F,F,T,F,De 63 a 65,F
+DGN2,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,F,F,62 o menos,F
+DGN2,Más de 2.88,Más de 2.04,PRZ1,F,F,T,T,F,OC12,F,F,F,F,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ2,F,F,F,T,T,OC11,F,F,F,F,F,Más de 70,F
+DGN3,2.66 o menos,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,De 2.67 a 2.88,2.04 o menos,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,De 63 a 65,F
+DGN8,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,F,F,62 o menos,F
+DGN2,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,T,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,De 66 a 70,F
+DGN3,De 2.67 a 2.88,2.04 o menos,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,T
+DGN3,2.66 o menos,2.04 o menos,PRZ2,F,F,F,T,T,OC11,F,F,F,F,F,Más de 70,F
+DGN4,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,De 2.67 a 2.88,Más de 2.04,PRZ1,T,F,F,T,F,OC13,F,F,F,T,F,De 66 a 70,F
+DGN3,De 2.67 a 2.88,Más de 2.04,PRZ1,F,T,F,T,T,OC11,F,F,F,T,F,Más de 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,De 66 a 70,F
+DGN4,Más de 2.88,2.04 o menos,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,De 66 a 70,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,F,OC12,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,T,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC11,F,F,F,F,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,T,F,OC12,F,F,F,F,F,De 66 a 70,F
+DGN4,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC12,F,F,F,F,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,T,T,F,T,F,OC12,F,F,F,F,F,Más de 70,F
+DGN3,2.66 o menos,2.04 o menos,PRZ2,T,T,F,F,F,OC11,F,F,F,T,F,Más de 70,F
+DGN4,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,T,OC12,T,F,F,T,F,62 o menos,T
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,T,OC13,F,F,F,T,F,Más de 70,F
+DGN2,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC13,F,F,F,T,F,De 63 a 65,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC11,F,F,F,T,F,62 o menos,F
+DGN3,Más de 2.88,Más de 2.04,PRZ1,F,F,F,T,F,OC13,F,F,F,F,F,62 o menos,F
+DGN3,2.66 o menos,2.04 o menos,PRZ1,F,F,F,T,T,OC12,F,F,F,T,F,Más de 70,F
+DGN3,Más de 2.88,Más de 2.04,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,62 o menos,F
